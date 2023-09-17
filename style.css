@@ -362,9 +362,9 @@ h4 {
     }
   }
   /*footer ex*/
-  .container-footer {
+  /* .container-footer {
     margin-top: 50px;
-  }
+  } */
 
 
 .hair-card-head {
@@ -391,11 +391,11 @@ h4 {
       column-count: 4;
     }
   }
-  .conatiner-footer {
+  /* .conatiner-footer {
     background-color: #f8f9fa;
     padding: 20px;
     text-align: center;
-  }
+  } */
 
   footer {
     display: flex;
