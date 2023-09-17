@@ -362,39 +362,9 @@ h4 {
     }
   }
   /*footer ex*/
-  /* .container-footer {
+  .container-footer {
     margin-top: 50px;
-  } */
-
-  footer {
-    display: flex;
-    justify-content: space-between;
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-}
-
-/* Style the contact information */
-.contact {
-    flex: 1;
-    text-align: left;
-}
-
-.contact p {
-    margin: 0;
-}
-
-/* Style the social media icons */
-.social {
-    flex: 1;
-    text-align: right;
-}
-
-.social a {
-    color: #fff;
-    text-decoration: none;
-    margin-left: 10px;
-}
+  }
 
 
 .hair-card-head {
@@ -421,24 +391,8 @@ h4 {
       column-count: 4;
     }
   }
-  /* .footer {
+  .footer {
     background-color: #f8f9fa;
     padding: 20px;
     text-align: center;
-  } */
-
-  /* Media query for responsiveness */
-@media screen and (max-width: 600px) {
-  footer {
-      flex-direction: column;
-      text-align: center;
   }
-  
-  .contact, .social {
-      margin-bottom: 10px;
-  }
-  
-  .social {
-      order: -1; /* Move social icons to the top on small screens */
-  }
-}
